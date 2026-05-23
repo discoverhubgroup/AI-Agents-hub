@@ -1,0 +1,126 @@
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+
+- 发现社区: [https://discoverhub.cn](https://discoverhub.cn) Github:[https://github.com/discoverhubgroup](https://github.com/discoverhubgroup)
+- OpenGithub社区：https://open.itc.cn  Github : [https://github.com/OpenGithubs](https://github.com/OpenGithubs)
+- 微信公众号: >>[搜索开源推荐官](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
+- 头条社区: >>[搜索开源推荐官](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
+- 知乎社区: >>[搜索Open Github社区](https://www.zhihu.com/people/OpenGithub)
+- 订阅Github: >> [Github周刊](https://github.com/OpenGithubs/weekly) , [Github月刊](https://github.com/OpenGithubs/monthly)
+- **订阅榜单**: >> [Github日榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065034652468035603#wechat_redirect), [Github周榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065034978231238664#wechat_redirect), [Github月榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065035174692438029#wechat_redirect)
+- **喜欢分享&关注开源, +微信: open_github**
+
+---
+
+10 款 AI 智能编码工具 / 编程智能体，覆盖开源智能体、终端编程工具、AI 原生 IDE、大厂官方编辑器等类型，具备自动编程、长上下文、自主开发、全流程研发能力，帮你快速选择最适合的 AI 编程神器。
+
+- 1.Claude Code编程智能体:claude-code 125.5k⭐
+- 2.AI原生IDE:windsurf
+- 3.苹果全平台开发工具:xcode
+- 4.The Real Al Engineer:Trae
+- 5.智能体编程平台:qoder
+- 6.智能编程编辑器:vscode 9.9k⭐
+- 7.AI 驱动编程工具:Cursor 32.9k⭐
+- 8.命令行 DeepSeek 编码助手:DeepSeek-TUI 33.1k⭐
+- 9.编码Agent:superpowers 201.4k⭐
+- 10.开源编程智能体:opencode
+
+
+## 1.Claude Code编程智能体:claude-code 125.5k⭐
+![](https://opengithub.cn/image/product/20260513/3d77b565-f9d8-476b-ab66-70a9a5d9c5d8.jpg)
+- **产品地址**：[https://code.claude.com/docs/en/overview](https://discoverhub.cn/product/detail/01KQENJW2KAT8QJ5A1ZXQKWCY8)
+- **产品介绍**：Claude Code 是终端端驻留的智能体编程工具，可理解完整代码库，通过自然语言命令完成常规开发任务、复杂代码解析、Git 工作流管理，全方位提升编码效率。
+- **产品分类**：[[工程开发](https://discoverhub.cn/category/01KFZBMZ0XXQ8WMZN66X5AVH54)] [[AI智能体](https://discoverhub.cn/category/01KH3BK6PAJ09EV0W4FJR752XK)] [[编程助手](https://discoverhub.cn/category/01KF164G8S4BGCH5G8Y0GA48P0)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] 
+- **产品外站**：[[github](https://github.com/anthropics/claude-code)] 
+- **Github地址**：[https://github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)
+- **Github数据**：star:**125.5k** watch:**777** fork:**20.6k** pr:**1.0k** issue:**59.0k** release:**115**
+- **主要语言**：[Shell](https://github.com/search?q=language:Shell&type=repositories)
+- **开源时间**：2025-02-23
+- **最后更新**：2026-05-22
+## 2.AI原生IDE:windsurf 
+![](https://opengithub.cn/image/product/20260509/aeaab1dc-1166-473c-a683-094caa156580.png)
+- **产品地址**：[https://windsurf.com](https://discoverhub.cn/product/detail/01KR58GTVA2HZ3A51CPZ94Y4R0)
+- **产品介绍**：面向软件工程的 AI 原生独立 IDE，搭载自研 SWE‑1 模型家族与 Cascade 智能代理，支持代码生成、自动修复、长期记忆、多模态、MCP 工具链与一键部署，大幅提升研发效率与协作体验。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[IDE 集成](https://discoverhub.cn/category/01KH3EYB3RT7M36Y535QJXSV6A)] 
+## 3.苹果全平台开发工具:xcode 
+![](https://discoverhub.cn/image/product/20260522/7c304a12-a88a-4db1-b1a8-edcf206ab182.png)
+- **产品地址**：[https://developer.apple.com/xcode](https://discoverhub.cn/product/detail/01KS6NM4ZXDFP763DT39H1HEEA)
+- **产品介绍**：集成 AI 代码补全、生成式智能、高级调试与性能分析工具，提供苹果设备模拟器，助力开发、测试与分发苹果生态应用。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[IDE](https://discoverhub.cn/category/01KH3EYB3RT7M36Y535QJXSV6A)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] 
+## 4.The Real Al Engineer:Trae 
+![](https://discoverhub.cn/image/product/01KQ782Y5P2GZY0RR8XRW6HJEW/cover_06b0910d-d035-4bcb-87f2-e9e153309986.png)
+- **产品地址**：[https://www.trae.cn/](https://discoverhub.cn/product/detail/01KQ782Y5P2GZY0RR8XRW6HJEW)
+- **产品介绍**：Trae自适应AI IDE重构开发工作方式，协同提升开发效率。
+- **产品分类**：[[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[通用智能体](https://discoverhub.cn/category/01KH3BSD264EV8SHCJY9S5QMSH)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[自主规划](https://discoverhub.cn/category/01KKXES9VPHG023NGPG52BNS3E)] 
+- **产品外站**：[[twitter](https://twitter.com/trae_ai)] 
+## 5.智能体编程平台:qoder 
+![](https://opengithub.cn/image/product/20260509/68586302-8d05-4212-9425-5844885a8724.jpg)
+- **产品地址**：[https://qoder.com](https://discoverhub.cn/product/detail/01KR5A1M4CR7TMFSZYWC9JBK4W)
+- **产品介绍**：下一代 Agentic AI 编程工具，提供独立 IDE、JetBrains 插件、CLI 三种形态，具备专家团模式、Quest 任务模式、Repo Wiki 自动文档、MCP 扩展与长上下文理解能力，覆盖从需求到交付的全研发流程。
+- **产品分类**：[[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[IDE 集成](https://discoverhub.cn/category/01KH3EYB3RT7M36Y535QJXSV6A)] [[自主规划](https://discoverhub.cn/category/01KKXES9VPHG023NGPG52BNS3E)] [[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[通用智能体](https://discoverhub.cn/category/01KH3BSD264EV8SHCJY9S5QMSH)] 
+- **产品外站**：[[twitter](https://x.com/qoder_ai_ide)] 
+## 6.智能编程编辑器:vscode 9.9k⭐
+![](https://discoverhub.cn/image/product/20260520/dde173ea-23a2-4666-9de4-5917c8f04c46.jpg)
+- **产品地址**：[https://code.visualstudio.com](https://discoverhub.cn/product/detail/01KQENWSJ39T366XEWZCWJ0D3G)
+- **产品介绍**：集成 AI 对话扩展，依托大语言模型，提供代码生成、调试、解释、优化等能力，实时辅助编程，高效解决各类开发问题。
+- **产品分类**：[[工程开发](https://discoverhub.cn/category/01KFZBMZ0XXQ8WMZN66X5AVH54)] [[编程助手](https://discoverhub.cn/category/01KF164G8S4BGCH5G8Y0GA48P0)] [[IDE](https://discoverhub.cn/category/01KH3EYB3RT7M36Y535QJXSV6A)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] 
+- **产品外站**：[[github](https://github.com/microsoft/vscode-copilot-chat)] 
+- **Github地址**：[https://github.com/microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
+- **Github数据**：star:**9.9k** watch:**80** fork:**1.9k** pr:**5.0k** issue:**15** release:**392**
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2025-06-11
+- **最后更新**：2026-05-22
+## 7.AI 驱动编程工具:Cursor 32.9k⭐
+![](https://discoverhub.cn/image/product/01KQ773MV84H1FZQKM85MC0KT6/cover_837c76e3-6483-4e01-b1f2-a5a074d2a80f.png)
+- **产品地址**：[https://cursor.com](https://discoverhub.cn/product/detail/01KQ773MV84H1FZQKM85MC0KT6)
+- **产品介绍**：专为提升编程效率打造，以 AI 为核心，提供智能编码体验，是高效软件开发首选工具。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[编程助手](https://discoverhub.cn/category/01KF164G8S4BGCH5G8Y0GA48P0)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] 
+- **产品外站**：[[twitter](https://twitter.com/cursor_ai)] [[github](https://github.com/cursor/cursor)] 
+- **Github地址**：[https://github.com/cursor/cursor](https://github.com/cursor/cursor)
+- **Github数据**：star:**32.9k** watch:**245** fork:**2.2k** pr:**96** issue:**0** release:**0**
+- **开源时间**：2023-03-12
+- **最后更新**：2026-05-22
+## 8.命令行 DeepSeek 编码助手:DeepSeek-TUI 33.1k⭐
+![](https://opengithub.cn/image/product/20260506/01f04715-51f3-48f7-84a3-6c06212d548a.png)
+- **产品地址**：[https://deepseek-tui.com/](https://discoverhub.cn/product/detail/01KQXEF8H8SZC0M26Z44MR218X)
+- **产品介绍**：面向 DeepSeek V4 的终端原生编程智能体：100 万 token 上下文、思考模式流式推理、前缀缓存感知。自包含 Rust 二进制发布——开箱即带 MCP 客户端、沙箱和持久化任务队列。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[代码生成](https://discoverhub.cn/category/01KH3CTWNPX255SB5QAQDCHY0C)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] 
+- **产品外站**：[[github](https://github.com/Hmbown/DeepSeek-TUI)] 
+- **Github地址**：[https://github.com/Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+- **Github数据**：star:**33.1k** watch:**141** fork:**2.8k** pr:**862** issue:**1.0k** release:**96**
+- **近期趋势**：周增长: **8.1k**⭐ (+32%)	 月增长: **31.1k**⭐
+- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
+- **开源时间**：2026-01-20
+- **最后更新**：2026-05-22
+## 9.编码Agent:superpowers 201.4k⭐
+![](https://discoverhub.cn/image/repos/20260302/55cc4a6c-560d-4458-8c2e-f593976f9e4f.png)
+- **产品地址**：[https://github.com/obra/superpowers](https://discoverhub.cn/product/detail/01KQ9B6AGD101RCK4HKMW2AD66)
+- **产品介绍**：一套面向编码代理（coding agent）的完整软件开发工作流解决方案，核心基于可组合的 “技能（Skills）” 体系和标准化执行指令，让编码代理能按照规范流程完成软件开发全周期工作，适配 Claude Code、Cursor、Codex、OpenCode 等多个编码代理平台。
+- **产品分类**：[[日常助手](https://discoverhub.cn/category/01KH3CNAR06YPTWZPRQTS08TTB)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[通用智能体](https://discoverhub.cn/category/01KH3BSD264EV8SHCJY9S5QMSH)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] 
+- **产品外站**：[[github](https://github.com/obra/superpowers)] 
+- **Github地址**：[https://github.com/obra/superpowers](https://github.com/obra/superpowers)
+- **Github数据**：star:**201.4k** watch:**784** fork:**17.9k** pr:**766** issue:**680** release:**5**
+- **近期趋势**：周增长: **14.9k**⭐ (+7%)	 月增长: **42.6k**⭐ (+26%)
+- **主要语言**：[Shell](https://github.com/search?q=language:Shell&type=repositories)
+- **开源时间**：2025-10-10
+- **最后更新**：2026-05-22
+## 10.开源编程智能体:opencode 163.7k⭐
+![](https://opengithub.cn/image/product/20260430/00aad99c-1045-47d5-924e-7caa62008716.png)
+- **产品地址**：[https://opencode.ai](https://discoverhub.cn/product/detail/01KQDZJSAVBTEG26PGVJ49CBN2)
+- **产品介绍**：开源编程智能体，能够理解需求、自动编写代码、自主完成开发任务，以 AI 能力提升开发效率。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[自主智能体](https://discoverhub.cn/category/01KH3BSDDJY6WH9BYW1YQSV2MW)] [[代码生成](https://discoverhub.cn/category/01KH3CTWNPX255SB5QAQDCHY0C)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] [[自动任务](https://discoverhub.cn/category/01KKXES9VNEHP7GKE1TNWB5EXA)] 
+- **产品外站**：[[github](https://github.com/anomalyco/opencode)] 
+- **Github地址**：[https://github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
+- **Github数据**：star:**163.7k** watch:**633** fork:**19.3k** pr:**12.0k** issue:**16.3k** release:**809**
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2025-05-01
+- **最后更新**：2026-05-22
+
+---
+
+
+## 更多Github开源项目,请关注微信&公众号
+
+<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
